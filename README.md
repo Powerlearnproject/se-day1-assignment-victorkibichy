@@ -6,12 +6,25 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the backbone of modern technology, ensuring the development of secure, scalable, and high-performance applications. Its principles are essential for innovation, efficiency, and the sustainability of digital solutions in today’s fast-paced world.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+From the early days of software engineering to modern agile and DevOps practices, these milestones have shaped the way software is designed, developed, and maintained. Each phase has contributed to making software engineering a more structured, efficient, and scalable discipline in the tech industry.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+
+SDLC is a step-by-step process for building software efficiently. It includes:
+
+Planning – Define goals, budget, and project scope.
+Requirement Analysis – Gather and document what the software should do.
+Design – Plan the system structure, UI, and architecture.
+Implementation (Coding) – Write the actual software code.
+Testing – Find and fix bugs to ensure quality.
+Deployment – Launch the software for users.
+Maintenance – Update, fix issues, and improve the system over time.
+This process ensures reliable, high-quality software development
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
